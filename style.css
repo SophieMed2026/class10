@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /*-- remove side scroll bar*/
+  overflow-x: clip;
+}
+canvas {
+  display: block;
+  /* css commenats are diffrent */
+  /*changeing the color*/
+}
+p{
+  background-color: pink;
+  color: black;
+}
